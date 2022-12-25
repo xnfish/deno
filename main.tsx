@@ -1,7 +1,7 @@
 import blog from "https://deno.land/x/blog/blog.tsx";
 
 blog({
-  author: "Dino",
+  author: "Hearme",
   title: "My Blog",
   description: "The blog description.",
   avatar: "https://deno-avatar.deno.dev/avatar/83a531.svg",
